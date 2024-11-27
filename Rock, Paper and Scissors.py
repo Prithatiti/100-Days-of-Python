@@ -27,7 +27,7 @@ scissors = '''
 ---.__(___)
 '''
 
-
+print("Welcome to The Rock, Paper, Scissors Game!\n")
 game_choice = [rock, paper, scissors]
 
 my_choice = int(input("What do you choose? Type '0' for Rock, '1' for Paper or '2' for Scissors.\n"))
